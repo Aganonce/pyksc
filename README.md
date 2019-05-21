@@ -13,4 +13,4 @@ res, cent = KSC(k=3, iname="data/MemePhr.txt", delta=5, oname="results/MemePhr",
 ```
 
 ## References
-[1]: From Yang, Jaewon, and Jure Leskovec. "Patterns of temporal variation in online media." Proceedings of the fourth ACM international conference on Web search and data mining. ACM, 2011.
+[1]: Yang, Jaewon, and Jure Leskovec. "Patterns of temporal variation in online media." Proceedings of the fourth ACM international conference on Web search and data mining. ACM, 2011.
